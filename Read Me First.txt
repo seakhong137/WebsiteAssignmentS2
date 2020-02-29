@@ -1,0 +1,7 @@
+Before open the project 
+- Go to mysql
+- Create database name "myblog" 
+- then run the script "myblog.sql"
+- in project go to file ".env" to set your database connection
+
+
